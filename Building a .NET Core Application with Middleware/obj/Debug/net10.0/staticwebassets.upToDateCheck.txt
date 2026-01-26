@@ -1,0 +1,6 @@
+wwwroot\Style.css
+wwwroot\Script.js
+wwwroot\Index.Html
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\wwwroot\Style.css
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\wwwroot\Script.js
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\wwwroot\Index.Html

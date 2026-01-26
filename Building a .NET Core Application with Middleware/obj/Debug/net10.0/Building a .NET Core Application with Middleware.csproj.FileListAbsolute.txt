@@ -1,0 +1,34 @@
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\appsettings.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\Building a .NET Core Application with Middleware.staticwebassets.runtime.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\Building a .NET Core Application with Middleware.staticwebassets.endpoints.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\Building a .NET Core Application with Middleware.exe
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\Building a .NET Core Application with Middleware.deps.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\Building a .NET Core Application with Middleware.runtimeconfig.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\Building a .NET Core Application with Middleware.dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\bin\Debug\net10.0\Building a .NET Core Application with Middleware.pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.AssemblyInfoInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.AssemblyInfo.cs
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.sourcelink.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\scopedcss\bundle\Building a .NET Core Application with Middleware.styles.css
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\compressed\vu4mgwlc9v-{0}-lqgdwcdsnk-lqgdwcdsnk.gz
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\compressed\ijxwuq8n7d-{0}-8i9kfy7hjc-8i9kfy7hjc.gz
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\compressed\2mpo740csv-{0}-uxkjgo9k7x-uxkjgo9k7x.gz
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\refint\Building a .NET Core Application with Middleware.dll
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.pdb
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\Building a .NET Core Application with Middleware.genruntimeconfig.cache
+C:\Users\jyoth\OneDrive\Documents\Wipro_MS_Dynamics_C#\UI & UX\Building a .NET Core Application with Middleware\obj\Debug\net10.0\ref\Building a .NET Core Application with Middleware.dll
