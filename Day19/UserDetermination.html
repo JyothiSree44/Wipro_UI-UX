@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result Check</title>
+</head>
+<body>
+
+<script>
+    // Accept user name
+    let name = prompt("Enter your name");
+
+    // Subjects array
+    let subjects = ["Maths", "Science", "English"];
+    let marks = [];
+    let total = 0;
+    let isPass = true;
+
+    // Accept marks
+    for (let i = 0; i < subjects.length; i++) {
+        let m = parseInt(prompt("Enter marks for " + subjects[i]));
+        marks.push(m);
+        total += m;
+
+        if (m < 35) {
+            isPass = false;
+        }
+    }
+
+    let average = total / subjects.length;
+
+    // Display result using string methods
+    document.write("Student Name: " + name.toUpperCase() + "<br>");
+    document.write("Average Marks: " + average.toFixed(2) + "<br>");
+
+    if (isPass) {
+        document.write("Result: " + "pass".toUpperCase());
+    } else {
+        document.write("Result: " + "fail".toUpperCase());
+    }
+</script>
+
+</body>
+</html>
