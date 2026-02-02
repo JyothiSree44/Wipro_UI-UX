@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Customer Engagement Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- External CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Customer Portal</a>
+    </div>
+  </nav>
+</header>
+
+<main class="container my-4">
+
+  <!-- Cards Section -->
+  <section class="row g-3">
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Engagement</h5>
+          <p class="card-text">Improve customer interaction.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Form Section -->
+  <section class="my-4">
+    <h3>User Registration</h3>
+    <form id="userForm" class="needs-validation" novalidate>
+      <div class="mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" id="name" class="form-control" required>
+      </div>
+
+      <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" id="email" class="form-control" required>
+      </div>
+
+      <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+  </section>
+
+  <!-- Media Section -->
+  <section class="my-4">
+    <h3>Media</h3>
+
+    <audio controls>
+      <source src="assets/sample-audio.mp3" type="audio/mpeg">
+    </audio>
+
+    <video width="300" controls>
+      <source src="assets/sample-video.mp4" type="video/mp4">
+    </video>
+  </section>
+
+  <!-- Fetch API Section -->
+  <section class="my-4">
+    <button class="btn btn-success" onclick="loadUser()">Load Random User</button>
+    <div id="userData" class="mt-3"></div>
+  </section>
+  <section class="my-4">
+  <h3>Documentation</h3>
+
+  <a href="assets/sample-document.pdf" target="_blank">
+    View Project PDF
+  </a>
+</section>
+
+
+</main>
+
+<footer class="bg-dark text-white text-center p-3">
+  © 2026 Customer Engagement Portal
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

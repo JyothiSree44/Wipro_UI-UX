@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+#userData img {
+  border-radius: 50%;
+  margin-top: 10px;
+}
